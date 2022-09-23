@@ -3,6 +3,6 @@
     <title> PHP Test </title>
    </head>
    <body>
-   <?php echo '<p> Hazover's on a solo mission.</p>';?>
+   <?php echo '<p> Hello Cloud Computing Class!</p>';?>
    </body>
    </html>
